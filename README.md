@@ -13,3 +13,19 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+
+### Project Dependencies
+* nextjs
+* hardhat
+* @nomiclabs/harthat-waffle
+* @nomiclabs/harthat-ethers
+* ethereum-waffle
+* chai
+* web3modal
+* openzeppelin/contracts
+* ipfs-http-client
+* axios
+* tailwindcss
+* postcss
+* autoprefixer
